@@ -1,2 +1,2 @@
 # talks
-All of the slides at Gopher Beijing Meetings.
+All of the slides at GoHackers Meetings.
